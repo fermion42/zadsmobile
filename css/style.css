@@ -1,0 +1,666 @@
+/*!FROONT Project element styles */
+
+.fr_nevatu {
+  float: none;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #8157f4;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  min-height: 44.275390625em
+}
+.fr_safelo {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: Karla;
+  font-weight: 200;
+  font-size: 1.2em;
+  line-height: 1.45em;
+  text-align: left;
+  letter-spacing: 0;
+  vertical-align: top;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 1.5em;
+  margin-left: 0;
+  color: black;
+  min-height: 1.716889880952381em;
+  max-width: 500px
+}
+.fr_safelo .fr-text {
+  min-width: 100%
+}
+.fr_denime {
+  display: block;
+  width: 200px;
+  font-family: Karla;
+  font-weight: 400;
+  font-size: 1.15em;
+  text-align: center;
+  vertical-align: top;
+  margin-top: 0;
+  padding-top: 1em;
+  padding-right: .7em;
+  padding-bottom: 1em;
+  padding-left: .7em;
+  color: white;
+  background-color: black;
+  min-height: 3.3139880952380953em;
+  border-radius: 5em
+}
+.fr_denime .fr-text {
+  min-width: 100%
+}
+.fr_kebebe {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 700;
+  font-size: 2.9em;
+  line-height: 1.05em;
+  text-align: left;
+  letter-spacing: -0.05em;
+  vertical-align: top;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: .5em;
+  margin-left: 0;
+  color: black;
+  min-height: 1.2222222222222223em;
+  max-width: 600px
+}
+.fr_kebebe .fr-text {
+  min-width: 100%
+}
+.fr_ratege {
+  float: none;
+  display: block;
+  width: 100%;
+  vertical-align: top;
+  margin-left: 0;
+  max-width: 370px
+}
+.fr_vahebo {
+  float: none;
+  display: block;
+  vertical-align: top;
+  padding-top: 1px;
+  min-height: 15.53515625em
+}
+.fr_tinuvu {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  position: static;
+  max-width: 1200px
+}
+.fr_tinuvu>.fr-widget:nth-child(2n+1) {
+  margin-top: 0;
+  margin-right: 1%;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 61%;
+  clear: left;
+  max-width: inherit
+}
+.fr_tinuvu>.fr-widget:nth-child(2n+2) {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 1%;
+  width: 37%;
+  clear: none;
+  max-width: inherit
+}
+.fr_josadu {
+  float: none;
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: 0
+}
+.fr_vagive {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 500;
+  font-size: 2.1em;
+  line-height: 1.35em;
+  text-align: left;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto;
+  min-height: 1.3125em
+}
+.fr_vagive .fr-text {
+  min-width: 100%
+}
+.fr_mupide {
+  float: none;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 1px;
+  background: white
+}
+.fr_lafeju {
+  float: none;
+  display: block;
+  width: 70px;
+  margin-bottom: 1.5em;
+  background: red;
+  background-color: #33afe2;
+  min-height: 5px
+}
+.fr_kubega {
+  float: none;
+  display: block
+}
+.fr_mometo {
+  float: none;
+  display: block;
+  margin-top: 1.6em;
+  margin-bottom: 1em;
+  margin-left: 26%
+}
+.fr_mijope {
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-bottom: 4em;
+  margin-left: auto
+}
+.fr_nihefo {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 400;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  text-align: left;
+  letter-spacing: .01em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto;
+  color: black
+}
+.fr_nihefo .fr-text {
+  min-width: 100%
+}
+.fr_gupeho {
+  float: none;
+  display: block;
+  width: 99.84897769516728%;
+  min-height: 4.568359375em
+}
+.fr_nunesu {
+  float: none;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 1px
+}
+.fr_nunesu>.fr-widget:nth-child(1n+1) {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 100%;
+  clear: left;
+  max-width: inherit
+}
+.fr_lafalo {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: Karla;
+  font-weight: 600;
+  font-size: 2.1em;
+  line-height: 1.15em;
+  text-align: left;
+  letter-spacing: 0;
+  margin-top: 0;
+  margin-bottom: 1em;
+  color: black;
+  min-height: 1.3125em;
+  max-width: 900px
+}
+.fr_lafalo .fr-text {
+  min-width: 100%
+}
+.fr_gafope {
+  display: block;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: 0;
+  min-height: 29.5625em
+}
+.fr_gafope>.fr-widget:nth-child(2n+1) {
+  margin-top: .6em;
+  margin-right: 7%;
+  margin-bottom: .6em;
+  margin-left: 0;
+  width: 56%;
+  clear: left;
+  max-width: inherit
+}
+.fr_gafope>.fr-widget:nth-child(2n+2) {
+  margin-top: .6em;
+  margin-right: 0;
+  margin-bottom: .6em;
+  margin-left: 7%;
+  width: 30%;
+  clear: none;
+  max-width: inherit
+}
+.fr_kucabi {
+  float: none;
+  display: block;
+  width: 90%;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 5em;
+  margin-left: auto;
+  padding-top: 5em;
+  background: white;
+  max-width: 1200px
+}
+.fr_geduwu {
+  float: none;
+  display: block;
+  width: 70px;
+  margin-bottom: 1.5em;
+  background: red;
+  background-color: #33afe2;
+  min-height: 5px
+}
+.fr_wajidu {
+  float: none;
+  display: block;
+  width: 90%;
+  font-family: Karla;
+  font-weight: 600;
+  font-size: 2.1em;
+  line-height: 1.15em;
+  text-align: left;
+  letter-spacing: 0;
+  margin-top: 0;
+  margin-bottom: 1em;
+  color: black;
+  min-height: 1.3125em;
+  max-width: 900px
+}
+.fr_wajidu .fr-text {
+  min-width: 100%
+}
+.fr_boduka {
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto
+}
+.fr_tifane {
+  float: none;
+  display: block;
+  font-family: Karla;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 1.7em;
+  text-align: left;
+  letter-spacing: .01em;
+  margin-bottom: 1em;
+  color: #808d99
+}
+.fr_nigiha {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 2.1em;
+  line-height: 1.35em;
+  text-align: center;
+  letter-spacing: .01em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 2em;
+  margin-left: auto;
+  padding-bottom: 1em;
+  color: black;
+  min-height: 1.3125em;
+  max-width: 800px
+}
+.fr_nigiha .fr-text {
+  min-width: 100%
+}
+.fr_wudusa {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-top: 8em;
+  padding-right: 1em;
+  padding-bottom: 8em;
+  padding-left: 1em;
+  background: #f5fafd;
+  background-position: center center;
+  background-size: cover;
+  min-height: 29.5em
+}
+.fr_rorehi {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 300;
+  font-size: 1em;
+  text-align: center;
+  letter-spacing: 0;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  color: #9ea8ae;
+  min-height: 1.2em
+}
+.fr_rorehi .fr-text {
+  min-width: 100%
+}
+.fr_lopafa {
+  float: none;
+  display: block;
+  width: 150px;
+  margin-top: 2em;
+  margin-right: auto;
+  margin-left: auto
+}
+.fr_pifani {
+  float: none;
+  display: block;
+  width: 100%;
+  font-family: Karla;
+  font-weight: 400;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  text-align: left;
+  text-decoration: underline;
+  letter-spacing: .01em;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
+  color: #33afe2
+}
+.fr_pifani .fr-text {
+  min-width: 100%
+}
+.fr_kujami {
+  float: none;
+  display: block;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 12em
+}
+.b-content h1 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content h2 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content h3 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content h4 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content h5 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content h6 {
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content p {
+  margin-top: 0;
+  margin-bottom: 0
+}
+.b-content blockquote {
+  margin-top: 0;
+  margin-bottom: 0
+}
+.fr_kutesa {
+  float: none;
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  background: black;
+  min-height: 6em
+}
+@media screen and (max-width: 1024px) {
+  .fr_denime {
+    margin-bottom: 2em
+  }
+}
+@media screen and (max-width: 1024px) {
+  .fr_ratege {
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto
+  }
+}
+@media screen and (max-width: 1024px) {
+  .fr_tinuvu>.fr-widget:nth-child(2n+1) {
+    margin-top: 0;
+    margin-right: 1%;
+    margin-bottom: 0;
+    margin-left: 0;
+    width: 49%;
+    clear: left;
+    max-width: inherit
+  }
+  .fr_tinuvu>.fr-widget:nth-child(2n+2) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1%;
+    width: 49%;
+    clear: none;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 768px) {
+  .fr_safelo {
+    font-size: 1.1em;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 768px) {
+  .fr_kebebe {
+    font-size: 2.2em;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 768px) {
+  .fr_nunesu>.fr-widget:nth-child(2n+1) {
+    margin-top: .6em;
+    margin-right: 0;
+    margin-bottom: .6em;
+    margin-left: 0;
+    width: 50%;
+    clear: left;
+    max-width: inherit
+  }
+  .fr_nunesu>.fr-widget:nth-child(2n+2) {
+    margin-top: .6em;
+    margin-right: 0;
+    margin-bottom: .6em;
+    margin-left: 0;
+    width: 50%;
+    clear: none;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 768px) {
+  .fr_gafope>.fr-widget:nth-child(1n+1) {
+    margin-top: .6em;
+    margin-right: 0;
+    margin-bottom: .6em;
+    margin-left: 0;
+    width: 100%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 768px) {
+  .fr_nigiha {
+    font-size: 1.2em;
+    line-height: 1.4em;
+    text-align: center;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 641px) {
+  .fr_tinuvu>.fr-widget:nth-child(1n+1) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    width: 100%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 641px) {
+  .fr_josadu {
+    padding-top: 2em;
+    position: static
+  }
+}
+@media screen and (max-width: 641px) {
+  .fr_nunesu>.fr-widget:nth-child(1n+1) {
+    margin-top: .6em;
+    margin-right: 0;
+    margin-bottom: .6em;
+    margin-left: 0;
+    width: 100%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 641px) {
+  .fr_rorehi {
+    font-size: .8em;
+    margin-top: 0
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_ratege {
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_tinuvu>.fr-widget:nth-child(1n+1) {
+    margin-right: 1%;
+    margin-left: 1%;
+    width: 98.0%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_nihefo {
+    font-size: .9em;
+    line-height: 1.45em
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_nunesu>.fr-widget:nth-child(1n+1) {
+    margin-top: .6em;
+    margin-right: 0;
+    margin-bottom: .6em;
+    margin-left: 0;
+    width: 100%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_lafalo {
+    font-size: .9em;
+    line-height: 1.45em
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_gafope>.fr-widget:nth-child(1n+1) {
+    margin-top: 1.55em;
+    margin-right: 3.6%;
+    margin-bottom: 1.55em;
+    margin-left: 3.6%;
+    width: 92.8%;
+    clear: left;
+    max-width: inherit
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_wajidu {
+    font-size: .9em;
+    line-height: 1.45em
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_tifane {
+    font-size: .9em;
+    line-height: 1.45em
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_rorehi {
+    line-height: 1.5em
+  }
+}
+@media screen and (max-width: 320px) {
+  .fr_pifani {
+    font-size: .9em;
+    line-height: 1.45em
+  }
+}
+.fr_denime {
+  transition-property: color, background-color;
+  transition-duration: .3s;
+  transition-timing-function: ease-out
+}
+.fr_denime:hover {
+  color: #33afe2;
+  background-color: white;
+  transition-duration: .125s
+}
